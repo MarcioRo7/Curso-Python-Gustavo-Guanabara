@@ -1,10 +1,5 @@
-# Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado
-
+# Solicita que o usuário digite seu nome
 entrada = input("Digite seu nome: \n")
+
+# Exibe uma mensagem de boas-vindas
 print("Olá, {}! Prazer em conhecer você!".format(entrada))
-
-# Crie um programa que escreva "Olá, mundo" na tela.
-
-print("Olá, mundo!")
-msg = "Hello, world!"
-print(msg)
